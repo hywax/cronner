@@ -14,6 +14,9 @@ devDependencies:
   changelogen:
     specifier: ^0.5.5
     version: 0.5.5
+  husky:
+    specifier: ^9.0.6
+    version: 9.0.6
   nuxt:
     specifier: ^3.9.3
     version: 3.9.3(@types/node@20.11.10)(typescript@5.3.3)(vite@5.0.12)
@@ -3500,6 +3503,12 @@ packages:
   /human-signals@5.0.0:
     resolution: {integrity: sha512-AXcZb6vzzrFAUE61HnN4mpLqd/cSIwNQjtNWR0euPm6y0iqx3G4gOXaIDdtdDwZmhwe82LA6+zinmW4UBWVePQ==}
     engines: {node: '>=16.17.0'}
+    dev: true
+
+  /husky@9.0.6:
+    resolution: {integrity: sha512-EEuw/rfTiMjOfuL7pGO/i9otg1u36TXxqjIA6D9qxVjd/UXoDOsLor/BSFf5hTK50shwzCU3aVVwdXDp/lp7RA==}
+    engines: {node: '>=18'}
+    hasBin: true
     dev: true
 
   /iconv-lite@0.6.3:
