@@ -11,6 +11,9 @@
     "release": "pnpm run lint && pnpm run typecheck && pnpm run build && changelogen --release --push",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
     "postinstall": "nuxt prepare",
     "prepare": "husky"
   },
@@ -24,6 +27,7 @@
     "husky": "^9.0.6",
     "lint-staged": "^15.2.0",
     "nuxt": "^3.9.3",
+    "vitepress": "1.0.0-rc.40",
     "vue": "^3.4.14",
     "vue-router": "^4.2.5"
   },
