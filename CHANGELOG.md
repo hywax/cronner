@@ -1,6 +1,31 @@
 # Changelog
 
 
+## v0.1.0
+
+[compare changes](https://github.com/hywax/cronner/compare/v0.0.2...v0.1.0)
+
+### 🩹 Fixes
+
+- Newline at end of file ([da12431](https://github.com/hywax/cronner/commit/da12431))
+
+### 📦 Build
+
+- ⚠️  Remove linux/arm/v7 image ([6bbc8c2](https://github.com/hywax/cronner/commit/6bbc8c2))
+- Pnpm frozen lockfile ([afb5fe9](https://github.com/hywax/cronner/commit/afb5fe9))
+
+### 🤖 CI
+
+- Job push timeout ([c0643e9](https://github.com/hywax/cronner/commit/c0643e9))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Remove linux/arm/v7 image ([6bbc8c2](https://github.com/hywax/cronner/commit/6bbc8c2))
+
+### ❤️ Contributors
+
+- Hywax ([@hywax](http://github.com/hywax))
+
 ## v0.0.2
 
 [compare changes](https://github.com/hywax/cronner/compare/v0.0.1...v0.0.2)
