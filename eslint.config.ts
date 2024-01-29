@@ -25,4 +25,10 @@ export default antfu(
       'antfu/consistent-list-newline': 'off',
     },
   },
+  {
+    files: ['package.json'],
+    rules: {
+      'style/eol-last': 'off',
+    },
+  },
 )
