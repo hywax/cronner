@@ -1,6 +1,35 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/hywax/cronner/compare/v0.0.1...v0.0.2)
+
+### 📖 Documentation
+
+- **issue-template:** Bug ([6ed9095](https://github.com/hywax/cronner/commit/6ed9095))
+- **issue-template:** Feature request ([183511d](https://github.com/hywax/cronner/commit/183511d))
+- **issue-template:** Question ([a92c000](https://github.com/hywax/cronner/commit/a92c000))
+
+### 📦 Build
+
+- Docker file ([1346eb7](https://github.com/hywax/cronner/commit/1346eb7))
+- Set docker build file path ([e641302](https://github.com/hywax/cronner/commit/e641302))
+
+### 🏡 Chore
+
+- Vitepress for documentation ([f79c651](https://github.com/hywax/cronner/commit/f79c651))
+
+### 🤖 CI
+
+- Ci plan ([ff3e817](https://github.com/hywax/cronner/commit/ff3e817))
+- Docs plan ([b703acb](https://github.com/hywax/cronner/commit/b703acb))
+- Release plan ([e8e6711](https://github.com/hywax/cronner/commit/e8e6711))
+
+### ❤️ Contributors
+
+- Hywax ([@hywax](http://github.com/hywax))
+
 ## v0.0.1
 
 
