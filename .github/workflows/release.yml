@@ -6,9 +6,10 @@ on:
       - 'v*.*.*'
 
 jobs:
-  push_to_registries:
+  push:
     name: Push Docker image to multiple registries
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       packages: write
       contents: read
