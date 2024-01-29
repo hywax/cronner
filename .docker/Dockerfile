@@ -2,12 +2,14 @@ FROM node:20-alpine as build
 
 WORKDIR /app
 
+ENV PNPM_HOME="/pnpm"
+ENV PATH="$PNPM_HOME:$PATH"
 RUN corepack enable
 
 COPY package.json /app
 COPY pnpm-lock.yaml /app
 
-RUN pnpm install
+RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile
 
 COPY . /app
 
