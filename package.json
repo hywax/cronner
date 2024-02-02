@@ -24,10 +24,10 @@
     "changelogen": "^0.5.5",
     "eslint": "npm:eslint-ts-patch@8.56.0-0",
     "eslint-ts-patch": "8.56.0-0",
-    "husky": "^9.0.9",
+    "husky": "^9.0.10",
     "lint-staged": "^15.2.1",
     "nuxt": "^3.10.0",
-    "vitepress": "1.0.0-rc.40",
+    "vitepress": "1.0.0-rc.41",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
   },
