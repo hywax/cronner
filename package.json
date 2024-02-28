@@ -28,7 +28,7 @@
     "lint-staged": "^15.2.2",
     "nuxt": "^3.10.3",
     "vitepress": "1.0.0-rc.44",
-    "vue": "^3.4.19",
+    "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
   "lint-staged": {
