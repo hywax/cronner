@@ -18,8 +18,8 @@
     "prepare": "husky"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.8.1",
-    "@commitlint/cli": "^19.1.0",
+    "@antfu/eslint-config": "^2.8.3",
+    "@commitlint/cli": "^19.2.0",
     "@commitlint/config-conventional": "^19.1.0",
     "changelogen": "^0.5.5",
     "eslint": "npm:eslint-ts-patch@8.56.0-0",
