@@ -18,7 +18,7 @@
     "prepare": "husky"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.16.0",
+    "@antfu/eslint-config": "^2.16.1",
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
     "changelogen": "^0.5.5",
@@ -28,7 +28,7 @@
     "lint-staged": "^15.2.2",
     "nuxt": "^3.11.2",
     "vitepress": "1.1.4",
-    "vue": "^3.4.25",
+    "vue": "^3.4.26",
     "vue-router": "^4.3.2"
   },
   "lint-staged": {
